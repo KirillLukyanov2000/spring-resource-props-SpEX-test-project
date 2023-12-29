@@ -11,7 +11,7 @@ public class MovieService {
         this.movieRepo = movieRepo;
     }
 
-    public Movie getMovieById(Long id){
+    public Movie getMovieById(Long id) {
 
         Movie movieById = movieRepo.getById(id);
 

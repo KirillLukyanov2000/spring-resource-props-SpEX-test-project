@@ -5,7 +5,7 @@ import ru.lukyanov.repo.dbConnection.DBConnection;
 import org.hibernate.Session;
 import org.hibernate.query.Query;
 
-public class MovieRepo implements Repo<Movie>{
+public class MovieRepo implements Repo<Movie> {
 
     private final DBConnection dbConnection;
 

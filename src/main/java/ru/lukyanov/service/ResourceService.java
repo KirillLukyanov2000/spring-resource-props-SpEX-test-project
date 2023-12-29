@@ -15,7 +15,7 @@ public class ResourceService {
         this.resourceLoader = resourceLoader;
     }
 
-    public Resource getResource(){
+    public Resource getResource() {
         return resourceLoader.getResource(location);
     }
 

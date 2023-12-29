@@ -1,0 +1,7 @@
+
+†
+java:S1488"dImmediately return this expression instead of assigning it to the temporary variable "singleResult".(Ì›Àžþÿÿÿÿ8¿¾Š„Ë1
+u
+java:S1128"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡ž¸Îùÿÿÿÿ8™¬µ£Ë1
+h
+java:S1128"FRemove this unused import 'org.springframework.stereotype.Repository'.(¦ýÍýüÿÿÿÿ8š¬µ£Ë1

@@ -1,0 +1,10 @@
+
+G	java:S106"+Replace this use of System.out by a logger.(õ—•®8×«©†Ë1
+F	java:S106"+Replace this use of System.out by a logger.(òJ8Ù«©†Ë1
+L	java:S106!"+Replace this use of System.out by a logger.(Å­Ëİúÿÿÿÿ8¸¬©†Ë1
+G	java:S106#"+Replace this use of System.out by a logger.(ìáÈì8¹¬©†Ë1
+L	java:S106$"+Replace this use of System.out by a logger.(ì€˜Àüÿÿÿÿ8º¬©†Ë1
+d
+java:S1128"GRemove this unused import 'org.springframework.core.io.ResourceLoader'.(çàÉÇ8”§ü†Ë1
+z
+java:S1128	"XRemove this unused import 'org.springframework.core.io.support.ResourcePatternResolver'.(úì¥âüÿÿÿÿ8”§ü†Ë1
